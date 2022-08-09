@@ -29,6 +29,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajAgrahari&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajAgrahari&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajAgrahari&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 RajAgrahari/RajAgrahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
