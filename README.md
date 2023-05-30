@@ -29,7 +29,10 @@
 <p>
 <!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajAgrahari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=RajAgrahari&theme=nightowl&hide_border=true&fire=DD2727" alt="RajAgrahari" />
-<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=RajAgrahari&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="RajAgrahari" /> -->
+  <summary>Github Stats</summary>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajAgrahari&show_icons=true&theme=dark)](https://git.io/streak-stats)
+  <!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=RajAgrahari&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="RajAgrahari" /> -->
 </p>
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
@@ -40,9 +43,7 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=RajAgrahari&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
-<summary>Github Stats</summary>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajAgrahari&show_icons=true&theme=dark)](https://git.io/streak-stats)
 
 
 
