@@ -1,52 +1,90 @@
- ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40"> Hi, I’m [__Raj Agrahari__](https://raj-agrahari.herokuapp.com/),a passionate self-taught Web developer from India.
-- Currently, I'm pursuing my Btech in Computer Science and Engineering from NIT Srinagar.
-- I’m interested in **Competitive programming and Web development**
-- I’m looking to collaborate on **Open source projects**
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+<h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Raj!!</h1>
+
+                                                              R A J   A G R A H A R I ✨
+                                       Web Developer | Open Source Enthusiast | Explorer | Competitive Programmer
+
+- 🎓 Currently, I'm pursuing my Btech in Computer Science and Engineering from National Institute of Technology, Srinagar.
+- 🔭 I’m interested in **Competitive programming and Web development**
+- 👯 I’m looking to collaborate on **Open source projects**
+- 💬 Ask me about Python, C, C++, Git, GitHub, Web Development
+- 💼 Portfolio - [Portfolio](https://rajagrahari.netlify.app/)
+- 📫 How to reach me: [linkedin:@Raj](https://www.linkedin.com/in/rajagrahari-36b656213), [Instagram@Raj](https://www.instagram.com/__raj_agrahari__)
+- 😄 Pronouns: He/His
 
 <br/>
 
 
-#### LANGUAGES AND TOOLS:
-[<img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C]
-[<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
-[<img align="left" alt="html5" width="36px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" />][html]
-[<img align="left" alt="CSS3" width="36px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />][js]
-[<img align="left" alt="Heroku" width="36px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />][heroku]
-[<img align="left" alt="Redux" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />][redux]
-[<img align="left" alt="React" width="36px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />][react]
-[<img align="left" alt="Node.js" width="36px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />][node]
-[<img align="left" alt="express" width="36px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />][express]
-[<img align="left" alt="MongoDB" width="36px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][mongodb]
 
+
+
+<br/>      
+<h3 align="center">A passionate Front-End Web developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajAgrahari&label=Profile%20views&color=0e75b6&style=flat" alt="RajAgrahari" /> </p>
+
+<p>
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RajAgrahari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=RajAgrahari&theme=nightowl&hide_border=true&fire=DD2727" alt="RajAgrahari" />
+<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=RajAgrahari&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="RajAgrahari" /> -->
+</p>
+
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+
+---
+
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RajAgrahari&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+<summary>Github Stats</summary>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajAgrahari&show_icons=true&theme=dark)](https://git.io/streak-stats)
+
+
+
+
+---
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
+  ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
+  ![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=for-the-badge&logo=Express.JS)
+  ![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=Node.JS)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
+  ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=for-the-badge&logo=Heroku)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=Ubuntu)
+  ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter)
 
 <br/>
-<br/>
-<!---<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>--->
-<!---<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>--->
-             
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajAgrahari&show_icons=true&theme=dark)
-<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajAgrahari&theme=dark)](https://git.io/streak-stats)                                                 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajAgrahari&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!---
-RajAgrahari/RajAgrahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[C]: https://en.wikipedia.org/wiki/C_(programming_language)
-[cpp]: https://isocpp.org/
-[react]: https://reactjs.org/
-[firebase]: https://firebase.google.com/
-[heroku]: https://dashboard.heroku.com/
-[sass]: https://sass-lang.com/
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[js]: https://javascript.info/
-[redux]: https://redux.js.org/
-[express]: https://expressjs.com/
-[mongodb]: https://www.mongodb.com/
-[node]: https://nodejs.org/en/
-[github]: https://github.com/
-[git]: https://git-scm.com/
-[html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+   ---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
+<br/>
+
